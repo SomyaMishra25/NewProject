@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SampleProject
 {
-    partial class Program
+  public  partial class Program
     {
-        void PrintLine()
+      public  void PrintLine()
         {
             Console.WriteLine("Hii");
         }
