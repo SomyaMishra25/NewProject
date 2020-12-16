@@ -1,0 +1,7 @@
+C:\dotnet\devops\NewProject\SampleProjectSolution\SampleProject\bin\Debug\SampleProject.exe.config
+C:\dotnet\devops\NewProject\SampleProjectSolution\SampleProject\bin\Debug\SampleProject.exe
+C:\dotnet\devops\NewProject\SampleProjectSolution\SampleProject\bin\Debug\SampleProject.pdb
+C:\dotnet\devops\NewProject\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.csprojAssemblyReference.cache
+C:\dotnet\devops\NewProject\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+C:\dotnet\devops\NewProject\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.exe
+C:\dotnet\devops\NewProject\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.pdb
